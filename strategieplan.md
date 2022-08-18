@@ -26,7 +26,7 @@ Diesen Empfehlungen folgend wurde in Herne ein Strategieplan zur Demokratieförd
 
 In Herne gibt es viele engagierte Bürger*innen und Institutionen, die sich den Themen Demokratieförderung, Extremismusprävention und Vielfaltgestaltung widmen. Sowohl zivilgesellschaftliche Organisationen und nicht institutionell organisierte Bürger*innen als auch kommunale Einrichtungen sind in diesen Themenbereichen aktiv (siehe Nr. 5 Kontaktübersicht).
 
-Ziel des Prozesses
+**Ziel des Prozesses**
 
 Ziel der gemeinsamen Erarbeitung eines Strategieplans zur Demokratieförderung in Herne war und ist es auch weiterhin, bestehende Probleme und Bedarfe gemeinsam zu ermitteln und Strategien zu erarbeiten, die diesen Problemen entgegenwirken sollen. 
 
@@ -34,11 +34,17 @@ Dies soll durch das Zusammenbringen der unterschiedlichen Akteur*innen gelingen,
 
 Durch die Zusammenarbeit von zivilgesellschaftlichen Akteur*innen sowie Mitarbeitenden der Verwaltung kommt die „Partnerschaft für Demokratie“ in Herne der Zielsetzung des Bundesministeriums für Familie, Senioren, Frauen und Jugend in der Umsetzung des Programms “Demokratie leben!” auf lokaler Ebene nach: 
 „Die ‚Partnerschaften für Demokratie‘ sollen die zielgerichtete Zusammenarbeit aller vor Ort relevanten Akteur*innen für Aktivitäten gegen lokal relevante Formen von Extremismus und Ideologien der Ungleichwertigkeit, Gewalt und Menschenfeindlichkeit sowie für die Entwicklung eines demokratischen Gemeinwesens unter aktiver Beteiligung der Bürger*innen unterstützen und zur nachhaltigen Entwicklung lokaler und regionaler Bündnisse in diesen Themenfeldern beitragen.
-Im partnerschaftlichen Zusammenwirken, insbesondere von kommunaler Verwaltung und Zivilgesellschaft, wird eine lebendige und vielfältige Demokratie vor Ort sowie eine Kultur der Kooperation, des respektvollen Miteinanders, der gegenseitigen Anerkennung und Unterstützung gestärkt.“ 
+Im partnerschaftlichen Zusammenwirken, insbesondere von kommunaler Verwaltung und Zivilgesellschaft, wird eine lebendige und vielfältige Demokratie vor Ort sowie eine Kultur der Kooperation, des respektvollen Miteinanders, der gegenseitigen Anerkennung und Unterstützung gestärkt.“
+
+# Prozessbeschreibung
+
 Vorbemerkung:
 Zur Vorbereitung auf die Strategieplanentwicklung sollte eine Ressourcen- und Bedarfsanalyse für Herne erstellt werden, sodass ein möglichst genaues Bild der Situation bzgl. der Angebotsstruktur und der vorhandenen Bedarfe die Grundlage der gemeinsamen Arbeit darstellt. Auf dieses Vorhaben musste aufgrund zu hoher Kosten verzichtet und das Vorgehen angepasst werden. 
 
 Des Weiteren musste aufgrund der Coronapandemie der Beginn der Workshopsphase mehrfach verschoben werden. Ursprünglich sollte diese im April 2020 starten. Es wurde sich bewusst gegen eine Verlagerung in den digitalen Raum entschieden, da die Mehrheit der Teilnehmenden für Präsenzveranstaltungen mit entsprechend besseren Diskussionsmöglichkeiten votiert hat.
+
+# 3. Ziele und Erfordernisse in den Handlungsfeldern
+
 Im Folgenden werden die Ergebnisse der Workshops präsentiert. 
 Gemeinsam haben die Akteur*innen in jedem der definierten Handlungsfelder Ziele erarbeitet, die aus ihrer Sicht notwendig sind, um den identifizierten Problemen entgegenzuwirken. Daneben finden sich Handlungsschritte, die zur Zielerreichung notwendig sind (Erfordernisse). Diese Struktur resultiert aus einem Abstimmungsprozess innerhalb des Teilnehmendenkreises.
 Auf eine detaillierte Einführung in die einzelnen Themengebiete und/oder die Darstellung bereits vorhandener Maßnahmen und Angebote in Herne wird an dieser Stelle ganz bewusst verzichtet. Im Anhang wird in jedes der Handlungsfelder jedoch mit einer kurzen Problemdarstellung eingeführt (S. 20 ff.). Grundlagenkenntnisse über die Themen und die Angebote in Herne müssen als gegeben vorausgesetzt werden. Dies begründet sich zum einen in dem angestrebten Umfang dieses Strategieplans, zum anderen spiegelt diese Struktur den Fokus des Arbeitsprozesses auf die Problemlagen und die Entwicklung von Gegenstrategien wider. 
@@ -46,6 +52,7 @@ Auf eine detaillierte Einführung in die einzelnen Themengebiete und/oder die Da
 Finden sich im Bereich der Zielformulierung oder Erfordernisse Punkte, die bereits bestehende Vorhaben oder bestehende Maßnahmen betreffen, so ist dies entweder als Bekräftigung dieses Vorhabens oder als Anregung, diese Angebote zu erweitern, zu verstehen. Eine entsprechende Formulierung ist an jeweiliger Stelle erfolgt.
 Die formulierten Ziele werden bewusst nicht als Zielvorstellung (soll, wird etc.) beschrieben; es wird der angestrebte Ist-Zustand formuliert.
 
+# 3.1. Demokratieförderung
 
 Die Demokratie lebt von der Diskussion über gesellschaftliche Fragen, Interessenskonflikte und Meinungen. Der Diskurs ist dabei ein wesentliches Element der Debatte über Widersprüche gesellschaftlichen Lebens, des Zusammenlebens und der Abhängigkeiten, in denen Menschen sich bewegen.
 In der heutigen Gesellschaft verlieren viele Menschen das Gefühl dafür, in diesem System mit ihren Belangen Berücksichtigung zu finden und Einfluss üben zu können. In der „Mitte-Studie“ geben nur 73% der Befragten an, sich als überzeugte Demokrat*innen zu verstehen, und nur 53% sehen für sich die Möglichkeit der politischen Partizipation in ihrem Umfeld Dies deckt sich mit den Berichten der Herner Akteur*innen, die in unterschiedlichen Handlungsbereichen den Eindruck gewinnen, dass immer mehr Bürger*innen die Bindung an die Demokratie verlieren oder nie aufbauen konnten, 
